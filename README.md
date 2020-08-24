@@ -1,2 +1,2 @@
-# TrabalhosEscola
-Lugar para deixar os trabalhos de escola
+# Engenharia de requisitos
+Montar uma classe em java conforme especificado.
